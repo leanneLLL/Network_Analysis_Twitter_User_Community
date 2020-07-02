@@ -1,0 +1,30 @@
+Average Degree	3.580			
+Diameter		25			
+Average Path length: 7.483365543742188				
+Density:   	0.011				
+				
+Modularity	0.644
+Resolution used	1
+
+Algorithm:
+"Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Etienne Lefebvre, Fast unfolding of communities in large networks, in Journal of Statistical Mechanics: Theory and Experiment 2008 (10), P1000"			
+Resolution:
+"R. Lambiotte, J.-C. Delvenne, M. Barahona Laplacian Dynamics and Multiscale Modular Structure in Networks 2009"	
+
+				
+PageRank
+Epsilon = 0.001
+Probability = 0.85	
+Algorithm:			
+"Sergey Brin, Lawrence Page, The Anatomy of a Large-Scale Hypertextual Web Search Engine, in Proceedings of the seventh International Conference on the World Wide Web (WWW1998):107-117"
+
+
+Filtered out nodes in-degree <1 
+
+Average Degree	2.061			
+Diameter		24			
+Average Path length: 6.709				
+Density:   	0.000				
+				
+Modularity	0.569
+Resolution used	1				

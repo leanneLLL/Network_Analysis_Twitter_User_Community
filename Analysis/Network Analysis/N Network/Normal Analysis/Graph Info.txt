@@ -1,0 +1,45 @@
+Starting Nodes: 33611
+Starting Edges: 107800
+
+
+Average Degree	3.207			
+Diameter		22			
+Average Path length: 7.607				
+Density:   	0.000				
+				
+Modularity	0.634
+Resolution used	1
+
+Algorithm:
+"Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Etienne Lefebvre, Fast unfolding of communities in large networks, in Journal of Statistical Mechanics: Theory and Experiment 2008 (10), P1000"			
+Resolution:
+"R. Lambiotte, J.-C. Delvenne, M. Barahona Laplacian Dynamics and Multiscale Modular Structure in Networks 2009"	
+
+				
+PageRank
+Epsilon = 0.001
+Probability = 0.85	
+Algorithm:			
+"Sergey Brin, Lawrence Page, The Anatomy of a Large-Scale Hypertextual Web Search Engine, in Proceedings of the seventh International Conference on the World Wide Web (WWW1998):107-117"
+				
+
+Trimmed:  nomal users only
+
+Nodes: 4233
+Edges: 4188
+
+
+Average Degree	0.989			
+Diameter		21			
+Average Path length: 7.841				
+Density:   	0.000
+
+
+(The doted graph)
+FRUCHTERMAN_REINGOLD_Layout
+Graph Drawing by Force-directed Placement
+THOMAS M. J. FRUCHTERMAN* AND EDWARD M. REINGOLD
+http://faculty.washington.edu/joelross/courses/archive/f14/cs261/lab/j/fruchterman91graph.pdf
+
+
+	

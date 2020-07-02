@@ -1,0 +1,28 @@
+\begin{table}[H]
+\centering
+\resizebox{90mm}{!}{
+\begin{tabular}{lr|lr|lr}
+
+\hline   
+\multicolumn{2}{c}{Hateful} & \multicolumn{2}{c}{Normal} & \multicolumn{2}{c}{Others} \\
+Hashtag           & (\%)    & Hashtag        & (\%)      & Hashtag        & (\%)      \\
+\hline  
+MAGA              & 1.93\%  & MAGA           & 0.35\%    & ad             & 0.37\%    \\
+Syria             & 1.03\%  & Syria          & 0.34\%    & MAGA           & 0.28\%    \\
+WhiteLivesMatter  & 0.87\%  & ISIS           & 0.27\%    & Halloween      & 0.19\%    \\
+JFKFiles          & 0.79\%  & Brexit         & 0.24\%    & WorldSeries    & 0.17\%    \\
+agchatoz          & 0.75\%  & ad             & 0.23\%    & 1              & 0.16\%    \\
+AltRight          & 0.70\%  & Pakistan       & 0.22\%    & Brexit         & 0.16\%    \\
+Iraq              & 0.70\%  & Somalia        & 0.21\%    & Pakistan       & 0.16\%    \\
+RedPill           & 0.64\%  & WorldSeries    & 0.21\%    & Trump          & 0.13\%    \\
+ma4t              & 0.64\%  & BREAKING       & 0.19\%    & PuertoRico     & 0.13\%    \\
+Brexit            & 0.59\%  & Iran           & 0.18\%    & auspol         & 0.13\%    \\
+Trump             & 0.54\%  & Iraq           & 0.18\%    & BREAKING       & 0.12\%    \\
+Goldwater         & 0.52\%  & Rohingya       & 0.18\%    & MeToo          & 0.12\%    \\
+UraniumOne        & 0.49\%  & Halloween      & 0.18\%    & AI             & 0.11\%    \\
+SpencerAtUF       & 0.48\%  & Trump          & 0.17\%    & cdnpoli        & 0.11\%    \\
+WhiteGenocide     & 0.46\%  & 1              & 0.16\%    & PPP            & 0.11\%    \\
+\hline   
+\end{tabular}}
+\caption{\label{tab:table-name}Top 15 hashtags in tweets from hateful, normal and other users.}
+\end{table}
