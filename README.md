@@ -1,4 +1,4 @@
-# Network Analysis project for hateful users' network structure
+# Network Analysis project for hateful-user network structure
 Spring 2020. Project for UCLA Math 168 Introduction to Networks. 
 
 Abstract
