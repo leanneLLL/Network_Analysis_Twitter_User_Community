@@ -7,3 +7,10 @@ With the increasing use and impact of social media, the network structure of suc
 Inlucded are all the data visualizations and analysis.
 
 ![img1](https://raw.githubusercontent.com/leanneLLL/network-analysis/master/image-of-paper/page1.png)
+![img2](https://raw.githubusercontent.com/leanneLLL/network-analysis/master/image-of-paper/page2.png)
+![img3](https://raw.githubusercontent.com/leanneLLL/network-analysis/master/image-of-paper/page3.png)
+![img4](https://raw.githubusercontent.com/leanneLLL/network-analysis/master/image-of-paper/page4.png)
+![img5](https://raw.githubusercontent.com/leanneLLL/network-analysis/master/image-of-paper/page5.png)
+![img6](https://raw.githubusercontent.com/leanneLLL/network-analysis/master/image-of-paper/page6.png)
+![img7](https://raw.githubusercontent.com/leanneLLL/network-analysis/master/image-of-paper/page7.png)
+![img8](https://raw.githubusercontent.com/leanneLLL/network-analysis/master/image-of-paper/page8.png)
