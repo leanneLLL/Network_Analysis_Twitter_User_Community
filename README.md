@@ -1,7 +1,7 @@
 # Network Analysis project for hateful-user network structure
 Spring 2020. Introduction to Networks. University of California, Los Angeles - Department of Mathematics
 ## About The Project
-Check out the Github page for [this project!](https://github.com/leanneLLL/network-analysis)
+Check out the Github page for [this project!](https://leannelll.github.io/Network_Analysis_Twitter_User_Community/)
 ### How We Did It
 In this project we evaluated network structures and the information ecosystem of Twitter with adataset of over 100k users from Kaggle.
 We also conducted community detection and network structural analysis with the Louvain Method, PageRank(PR) algorithm,
