@@ -1,6 +1,4 @@
 # Public Opinion Warfare: Understanding Communities on Twitter and Their Inﬂuence on the Web
-Network analysis project for Twitter's hateful-user data.
-
 Spring 2020. Introduction to Networks. University of California, Los Angeles - Department of Mathematics
 ## About The Project
 Check out the [Github page](https://leannelll.github.io/Network_Analysis_Twitter_User_Community/) for this project!
