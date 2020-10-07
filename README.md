@@ -1,7 +1,9 @@
-# Network Analysis project for hateful-user network structure
+# Public Opinion Warfare: Understanding Communities on Twitter and Their Inﬂuence on the Web
+Network analysis project for Twitter's hateful-user data.
+
 Spring 2020. Introduction to Networks. University of California, Los Angeles - Department of Mathematics
 ## About The Project
-Check out the Github page for [this project!](https://leannelll.github.io/Network_Analysis_Twitter_User_Community/)
+Check out the [Github page](https://leannelll.github.io/Network_Analysis_Twitter_User_Community/) for this project!
 ### How We Did It
 In this project we evaluated network structures and the information ecosystem of Twitter with adataset of over 100k users from Kaggle.
 We also conducted community detection and network structural analysis with the Louvain Method, PageRank(PR) algorithm,
