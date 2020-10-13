@@ -4,7 +4,7 @@ Spring 2020. Introduction to Networks. University of California, Los Angeles - D
 Check out the [Github page](https://leannelll.github.io/Network_Analysis_Twitter_User_Community/) for this project!
 ### How We Did It
 In this project we evaluated network structures and the information ecosystem of Twitter with adataset of over 100k users from Kaggle.
-We also conducted community detection and network structural analysis with the Louvain Method, PageRank(PR) algorithm,
+We conducted community detection and network structural analysis with the Louvain Method, PageRank(PR) algorithm,
 and HITS algorithm using NetworkX in Python. Then at the end we visualized distributions and interactions between communities using Gephi. Performed influence estimation on
 specific communities based on user behavior and hashtag content analysis
 ### Abstract
